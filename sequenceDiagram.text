@@ -1,0 +1,5 @@
+@startuml
+AgentServicing -> ReservationsApi: checkRes(reservationId)
+ReservationsApi -> ReservationCRUD: reserve(data)
+ReservationsApi -> ReservationCRUD: cancel(reservationId)
+@enduml
