@@ -141,7 +141,7 @@ ReservationsApi -> ReservationCRUD: cancel(reservationId)
 @enduml
 ```   
 </br>   
-![A rendered PlantUML of the sample UML](sequenceDiagram.png )
+![A rendered PlantUML of the sample UML](./sequenceDiagram.png )
 
 
 
