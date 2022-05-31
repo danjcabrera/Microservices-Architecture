@@ -1,3 +1,5 @@
+##### Excerpts from **"Microservices: Up and Running"** by  Ronnie Mitra, Irakli Nadareishvili
+
 # Designing Microservices: The SEED(s) Process
 
 The microservices design system described in this chapter is a top-down, multistep 
