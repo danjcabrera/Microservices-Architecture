@@ -80,7 +80,7 @@ User Stories revolve around a user persona; they start with *“as a persona,”
 
 For each of the actors we identify, we need to discover top JTBDs for that actor.  The SEED(S) process uses the Job Stories format as defined by [Paul Adams](https://www.intercom.com/blog-the-dribbblisation-of-design):   
 
-*"when __circumstance__, I want to __motivation__, so I can __goal__"*  
+*"when \<__circumstance__\>, I want to \<__motivation__\>, so I can \<__goal__\>"*  
 </br> 
 
 #### **Key Decision: Use the Standard Job Story Format**  
